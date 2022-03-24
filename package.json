@@ -1,0 +1,26 @@
+{
+  "name": "react-svg-path-percentage",
+  "version": "1.0.4",
+  "description": "draw react svg path in percentage",
+  "main": "dist/index.js",
+  "scripts": {
+    "build":"tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/react-svg-path-percentage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/react-svg-path-percentage/issues"
+  },
+  "homepage": "https://github.com/postor/react-svg-path-percentage#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.42",
+    "react": "^17.0.2",
+    "typescript": "^4.6.2"
+  }
+}
